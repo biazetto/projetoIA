@@ -1,0 +1,10 @@
+Fuma,Atividade,Peso,Condicao
+1,1,72,Normal
+1,0,75,Doente
+0,1,78,Normal
+0,0,78,Doente
+0,1,84,Normal
+1,1,84,Doente
+0,1,85,Doente
+0,0,98,Atencao
+1,0,120,Atencao
